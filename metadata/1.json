@@ -1,0 +1,20 @@
+{
+    "name": "My First NFT",
+    "description": "This NFT represents something unique and special.",
+    "image": "https://example.com/path/to/image.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red Cap"
+      }
+    ]
+  }
+  
